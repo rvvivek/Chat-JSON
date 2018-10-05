@@ -22,13 +22,13 @@
       "to": "jid_1111"
     },
     {
-      "attachment": {
+      "attachment": [{
         "type": "image",
         "payload": {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Dszpics1.jpg"
         },
         "caption": "Hi Welcome to Active AI"
-      },
+      }],
       "type": "image",
       "from": "jid_1109",
       "sender_name": "Michel Slatter",
